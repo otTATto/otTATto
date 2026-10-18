@@ -1,5 +1,5 @@
 <samp>
-  I'm tato. 
+  I'm tato, from Japan. 
   I love 🎨 design and 💻 front-end web development. 
   I'm currently interested in typography, user interfaces, and web standards.
   <p align="center">
